@@ -5,10 +5,6 @@
 
 <p align="center">
   <img src="https://i.postimg.cc/mkkHv71n/2024-09-15-143052-hyprshot.png">
-  </br>
-  <img src="https://i.postimg.cc/mkkHv71n/2024-09-15-143052-hyprshot.png">
-  <img src="https://i.postimg.cc/mkkHv71n/2024-09-15-143052-hyprshot.png">
-  </br>
 </p>
 
 
