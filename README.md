@@ -4,7 +4,7 @@
 </br>
 
 <p align="center">
-  <img src="https://i.postimg.cc/mkkHv71n/2024-09-15-143052-hyprshot.png">
+   <a href="https://ibb.co/q5ydzCx"><img src="https://i.ibb.co/QdbfZkX/2024-09-15-143052-hyprshot.png" alt="2024-09-15-143052-hyprshot" border="0"></a>
 </p>
 
 
