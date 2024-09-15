@@ -1,13 +1,13 @@
-<h1 align="center"> :herb: scobik Hyprland :herb: </h1>
+<h1 align="center"> :herb: Scobik Hyprland :herb: </h1>
 
 <!-- BADGES -->
 </br>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/zproger/bspwm-dotfiles?style=for-the-badge">
+  <img src="https://i.postimg.cc/mkkHv71n/2024-09-15-143052-hyprshot.png">
   </br>
-  <img src="https://img.shields.io/github/languages/count/zproger/bspwm-dotfiles?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/Zproger/bspwm-dotfiles?style=for-the-badge">
+  <img src="https://i.postimg.cc/mkkHv71n/2024-09-15-143052-hyprshot.png">
+  <img src="https://i.postimg.cc/mkkHv71n/2024-09-15-143052-hyprshot.png">
   </br>
 </p>
 
